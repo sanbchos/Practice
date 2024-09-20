@@ -1,0 +1,12 @@
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb

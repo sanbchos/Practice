@@ -1,0 +1,46 @@
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\obj\Debug\UnitTestProjectClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\obj\Debug\UnitTestProjectClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\UnitTestProjectClassLibrary.dll
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\UnitTestProjectClassLibrary.pdb
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\obj\Debug\UnitTest.F8530E50.Up2Date
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\obj\Debug\UnitTestProjectClassLibrary.dll
+C:\Users\Илья Дворцов\C#\UP_02_01\ClassLibrary\UnitTestProjectClassLibrary\obj\Debug\UnitTestProjectClassLibrary.pdb
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\obj\Debug\UnitTestProjectClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\obj\Debug\UnitTestProjectClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\obj\Debug\UnitTestProjectClassLibrary.dll
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\obj\Debug\UnitTestProjectClassLibrary.pdb
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\UnitTestProjectClassLibrary.dll
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\UnitTestProjectClassLibrary.pdb
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Илья Дворцов\Desktop\GUI UP 3\ClassLibrary\UnitTestProjectClassLibrary\obj\Debug\UnitTest.F8530E50.Up2Date

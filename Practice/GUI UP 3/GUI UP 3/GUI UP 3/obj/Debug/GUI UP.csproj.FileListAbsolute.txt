@@ -1,0 +1,23 @@
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\bin\Debug\GUI EKZ TRBZD.exe.config
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\bin\Debug\GUI EKZ TRBZD.exe
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\bin\Debug\GUI EKZ TRBZD.pdb
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\bin\Debug\ClassLibrary.dll
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\obj\Debug\GUI UP.csproj.AssemblyReference.cache
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\obj\Debug\GUI.ClientForm.resources
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\obj\Debug\GUI.Create_request_form.resources
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\obj\Debug\GUI.Edit_request_form.resources
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\obj\Debug\GUI.HistoryForm.resources
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\obj\Debug\GUI.Login_Form_Window.resources
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\obj\Debug\GUI.EditRequestManagerForm.resources
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\obj\Debug\GUI.ManagerForm.resources
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\obj\Debug\GUI_EKZ_TRBZD.MasterForm.Add_repair_parts.resources
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\obj\Debug\GUI_EKZ_TRBZD.MasterForm.Comments_by_master.resources
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\obj\Debug\GUI_EKZ_TRBZD.MasterForm.MasterForm.resources
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\obj\Debug\GUI.Edit_request_form_operator.resources
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\obj\Debug\GUI.OperatorForm.resources
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\obj\Debug\GUI UP.csproj.GenerateResource.cache
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\obj\Debug\GUI UP.csproj.CoreCompileInputs.cache
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\obj\Debug\GUI UP.csproj.Up2Date
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\obj\Debug\GUI EKZ TRBZD.exe
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\obj\Debug\GUI EKZ TRBZD.pdb
+C:\Users\4291910-5\Desktop\GUI UP 3\GUI UP 3\GUI UP 3\bin\Debug\MessagingToolkit.QRCode.dll
